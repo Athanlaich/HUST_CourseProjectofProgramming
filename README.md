@@ -1,5 +1,5 @@
 # HUST_CourseProjectofProgramming
-华科网安大二下课设
+华科网安大二下课设：磁盘扫描
 # 使用步骤
 
 ## 1. 下载并运行程序
